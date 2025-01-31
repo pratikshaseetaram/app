@@ -9,10 +9,7 @@ This project implements the design of the Purposefuel website as shown in the pr
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -37,7 +34,7 @@ This project is a front-end implementation of the Purposefuel website design. It
    ```bash
    git clone [invalid URL removed]  # Replace with your repository URL
    cd purposefuel-react
- 2. **Install Dependencies:**
+2. **Install Dependencies:**
     npm install  # or yarn install
 
 3.**Usage**
