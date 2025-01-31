@@ -32,7 +32,7 @@ This project is a front-end implementation of the Purposefuel website design. It
 
 1. **Clone the Repository:**
    ```bash
-   git clone [invalid URL removed]  # Replace with your repository URL
+ 
    cd purposefuel-react
 2. **Install Dependencies:**
     npm install  # or yarn install
