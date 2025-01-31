@@ -1,4 +1,4 @@
-# Purposefuel Website (React)
+# Purposefuel Website 
 
 This project implements the design of the Purposefuel website as shown in the provided image using React.  It includes a functional component structure, dynamic product rendering, and basic styling.
 
